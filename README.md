@@ -4,10 +4,6 @@
 
 ![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/Colorful%20Futuristic%20Technology%20Poster.gif)
 
-Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
-
-***This list is continuously updated.*** - You can take pull requests and contribute. All Links are tested and working fine. Please ping if any link doesn't work
-
 | Sr No | Name                                                         | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1     | 365 Days Computer Vision Learning                            | [👆](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post) |
